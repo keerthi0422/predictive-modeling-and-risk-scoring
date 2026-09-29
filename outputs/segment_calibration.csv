@@ -1,0 +1,16 @@
+segment,value,n,actual,predicted
+Geography,France,1021,0.1714,0.1628
+Geography,Germany,504,0.2996,0.3206
+Geography,Spain,475,0.1705,0.1779
+Gender,Female,930,0.2505,0.2453
+Gender,Male,1070,0.1626,0.1721
+NumOfProducts,1,1013,0.2665,0.2722
+NumOfProducts,2,918,0.0839,0.0855
+NumOfProducts,3,59,0.8475,0.8226
+NumOfProducts,4,10,1.0,0.9534
+IsActiveMember,0,968,0.2748,0.2638
+IsActiveMember,1,1032,0.1366,0.1521
+AgeBand,<40,1191,0.094,0.1044
+AgeBand,40-49,539,0.3173,0.3184
+AgeBand,50-59,170,0.5765,0.531
+AgeBand,60+,100,0.26,0.2609

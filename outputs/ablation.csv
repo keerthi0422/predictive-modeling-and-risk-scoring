@@ -1,0 +1,7 @@
+setup,cv_auc,test_auc
+All features (champion),0.8638826554689831,0.8698313105092765
+Raw features only (no engineering),0.8644687039516137,0.8700842599147683
+Without Gender,0.8606324219163832,0.8661650865040695
+"Without Age-based features (Age, AgeTenure)",0.8099339310995755,0.8044932451712112
+"Behavioural only (products, activity, balance, tenure, card, engineered)",0.7726700118461731,0.7734437056470954
+"Demographics only (Age, Gender, Geography)",0.7754329150253778,0.777839472754727
